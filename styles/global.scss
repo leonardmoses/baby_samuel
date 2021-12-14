@@ -1,0 +1,36 @@
+
+$blackcolor: #0F1A02;
+$whitecolor: #ECFADD;
+
+$primarylight: #C8DBB4;
+$primarylightmed: #8CA570;
+$primarymed: #627A48; /* primary */
+$primarydarkmed: #415A25;
+$primarydark: #263E0D;
+
+$secondarylight: #FFE7DC;
+$secondarylightmed: #FFCAB1;
+$secondarymed: #ED9F7B; /* secondary */
+$secondarydarkmed: #BB6741;
+$secondarydark: #833714;
+
+$tertiarylight: #FFF5E5;
+$tertiarylightmed: #F9E0B8;
+$tertiarymed: #C6A570; /* tertiary */
+$tertiarydarkmed: #997741;
+$tertiarydark: #6E4E19;
+
+$quarternarylight: #FFFEFD;
+$quarternarylightmed: #FFF2EB;
+$quarternarymed: #E1C5B7; /* quarternary */
+$quarternarydarkmed: #B68F7B;
+$quarternarydark: #885F4A;
+
+html {
+    background-color: $primarymed;
+}
+
+h1 {
+    font-size: 50px;
+    color: $secondarylightmed;
+}
