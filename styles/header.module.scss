@@ -1,0 +1,12 @@
+@import "./global.module.scss";
+
+.headerbody {
+    background-color: $quarternarymed;
+    width: 100%;
+    height: 100px;
+
+    h1 {
+        color: $primarydark;
+        font-size: 40px;
+    }
+}

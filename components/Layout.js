@@ -1,9 +1,9 @@
-import Header from "./Header";
+import Header from "./Header.js";
 
 const Layout = ({children}) => {
     return ( 
         <div>
-            <header/>
+            <Header/>
             { children }
         </div>
      );
